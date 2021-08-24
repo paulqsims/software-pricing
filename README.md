@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-Company X performed an AB test on two pricing variants for a software to understand which one results in more conversions. Data were collected throughout the US and customers either saw a $39 price or a $59 price variant. 
+Company X performed an AB test on two pricing variants for a software to understand which one results in more conversions. Data were collected throughout the US and customers either saw a $39 price or a \\$59 price variant. 
 
 ## Objectives
 
@@ -16,7 +16,7 @@ Company X performed an AB test on two pricing variants for a software to underst
 ## Approach
 
 1. Run a hypothesis test to statistically compare differences in conversion rates between two price variants
-2. Build a predictive model of conversion probability
+2. TBD.
 3. TBD.
 
 ## Preliminary results
